@@ -1,8 +1,8 @@
 # Hello!, I'm Abylai, begginer Web Developer 👋🏼:
-🧠I'm currently learning HTML, CSS, JAVASCRIPT
-👨🏼‍🎓 studying at Skillset School
-🎬 Want to start my youtube channel
-💫Started CS50 Harvard courses
+🧠I'm currently learning HTML, CSS, JAVASCRIPT <br>
+👨🏼‍🎓 studying at Skillset School <br>
+🎬 Want to start my youtube channel<br>
+💫Started CS50 Harvard courses<br>
 
 
 ## 🌐 Socials:
