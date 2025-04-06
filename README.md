@@ -1,4 +1,5 @@
-# 💫 Hello, I'm Abylai! Begginer FrontEnd Developer:
+# 💫 Hello, I'm Abylai! Begginer FrontEnd Developer.
+## About Me:
 I'm currently learning HTML, CSS, JAVASCRIPT<br>
 Started CS50 Harvard courses
 
