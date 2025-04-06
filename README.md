@@ -1,8 +1,8 @@
 # Hello!, I'm Abylai, begginer Web Developer 👋🏼:
-🧠I'm currently learning HTML, CSS, JAVASCRIPT <br>
-👨🏼‍🎓 studying at Skillset School <br>
+🧠 I'm currently learning HTML, CSS, JAVASCRIPT <br>
+👨🏼‍🎓 Studying at Skillset School <br>
 🎬 Want to start my youtube channel<br>
-💫Started CS50 Harvard courses<br>
+💫 Started CS50 Harvard courses<br>
 
 
 ## 🌐 Socials:
@@ -18,5 +18,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fonyz444&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
