@@ -1,7 +1,8 @@
-# 💫 Hello, I'm Abylai! Begginer FrontEnd Developer.
-## About Me:
-I'm currently learning HTML, CSS, JAVASCRIPT<br>
-Started CS50 Harvard courses
+#Hello!, I'm Abylai, begginer Web Developer 👋🏼:
+🧠I'm currently learning HTML, CSS, JAVASCRIPT
+👨🏼‍🎓 studying at Skillset School
+🎬 Want to start my youtube channel
+💫Started CS50 Harvard courses
 
 
 ## 🌐 Socials:
