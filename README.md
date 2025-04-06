@@ -1,4 +1,4 @@
-#Hello!, I'm Abylai, begginer Web Developer 👋🏼:
+# Hello!, I'm Abylai, begginer Web Developer 👋🏼:
 🧠I'm currently learning HTML, CSS, JAVASCRIPT
 👨🏼‍🎓 studying at Skillset School
 🎬 Want to start my youtube channel
