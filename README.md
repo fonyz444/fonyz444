@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello World!, I'm Abylai, a begginer FrontEnd Developer:
 I'm currently learning HTML, CSS, JAVASCRIPT<br>
 
 
